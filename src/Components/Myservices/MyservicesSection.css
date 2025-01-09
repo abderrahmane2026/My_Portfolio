@@ -1,0 +1,54 @@
+.services-section {
+    padding: 2rem;
+  }
+  
+  .section-title {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: var(--secondary-color);
+  }
+  .section-subtitle{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.632);
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .cards-container {
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .service-card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 40px 20px 50px 20px;
+    width: 250px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s ease;
+  }
+  
+  .service-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .card-title {
+    font-size: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .card-description {
+    font-size: 1rem;
+    color: #666;
+    margin-top: 0.5rem;
+  }
+  
+  .card-icon {
+    font-size: 40px;
+    color: var(--primary-color);
+  }
+  

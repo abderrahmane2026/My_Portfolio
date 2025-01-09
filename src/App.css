@@ -1,0 +1,30 @@
+/* Global Variables */
+:root {
+    /* Colors */
+    --primary-color: #faae41;
+    --secondary-color: #000000;
+    --background-color: #ffffff;
+    --text-color: #272727;
+    --link-color: #000000;
+    --link-hover-color: #faae41;
+  
+    /* Typography */
+    --font-family: 'Arial', sans-serif;
+    --heading-font-size: 3rem;
+    --subheading-font-size: 1.2rem;
+    --text-font-size: 1rem;
+  
+    /* Spacing */
+    --padding: 20px;
+    --margin: 20px;
+  
+    /* Border Radius */
+    --border-radius: 5px;
+  
+    /* Shadows */
+    --box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  
+    /* Breakpoints */
+    --breakpoint-sm: 768px;
+    --breakpoint-md: 1024px;
+  }

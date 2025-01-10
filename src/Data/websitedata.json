@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "title": "Project One",
+      "description": "This is a brief description of Project One.",
+      "technologies": ["React", "Node.js", "CSS"],
+      "image": "/assets/web pic/1.webp",
+      "link": "https://github.com/your-profile/project-one"
+    },
+    {
+      "id": 2,
+      "title": "Project Two",
+      "description": "This is a brief description of Project Two.",
+      "technologies": ["React", "TypeScript", "Sass"],
+      "image": "/assets/web pic/2.webp",
+      "link": "https://github.com/your-profile/project-two"
+    },
+    {
+      "id": 3,
+      "title": "Project Three",
+      "description": "This is a brief description of Project Three.",
+      "technologies": ["Python", "Flask", "Bootstrap"],
+      "image": "/assets/web pic/3.webp",
+      "link": "https://github.com/your-profile/project-three"
+    },
+    {
+        "id": 4,
+        "title": "Project foor",
+        "description": "This is a brief description of Project Three.",
+        "technologies": ["Python", "Flask", "Bootstrap"],
+        "image": "/assets/web pic/4.webp",
+        "link": "https://github.com/your-profile/project-three"
+      }
+  ]
+  

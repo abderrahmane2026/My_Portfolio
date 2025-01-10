@@ -1,0 +1,106 @@
+[
+    {
+      "id": 1,
+      "name": "Weddings",
+      "image": "/assets/categories/wedding.jpg",
+      "photos": [
+        "/assets/categories/wedding.jpg",
+        "/assets/categories/wedding.jpg",
+        "/assets/categories/wedding.jpg",
+        "/assets/categories/wedding.jpg",
+        "/assets/categories/wedding.jpg",
+        "/assets/categories/wedding.jpg",
+        "/assets/categories/wedding.jpg",
+        "/assets/categories/wedding.jpg",
+        "/assets/categories/wedding.jpg",
+        "/assets/categories/wedding.jpg",
+        "/assets/categories/wedding.jpg",
+        "/assets/categories/wedding.jpg",
+        "/assets/categories/wedding.jpg",
+        "/assets/categories/wedding.jpg",
+        "/assets/wedding/2.jpg",
+        "/assets/wedding/3.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Candid Photos",
+      "image": "/assets/categories/candid.jpg",
+      "photos": [
+        "/assets/categories/candid.jpg",
+        "/assets/candid/2.jpg",
+        "/assets/candid/3.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Portraits",
+      "image": "/assets/categories/portrait.jpg",
+      "photos": [
+        "/assets/categories/portrait.jpg",
+        "/assets/portrait/2.jpg",
+        "/assets/portrait/3.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Photo Shoots",
+      "image": "/assets/categories/photoshoot.jpg",
+      "photos": [
+        "/assets/photoshoot/1.jpg",
+        "/assets/photoshoot/2.jpg",
+        "/assets/photoshoot/3.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Kids",
+      "image": "/assets/categories/kids.jpg",
+      "photos": [
+        "/assets/kids/1.jpg",
+        "/assets/kids/2.jpg",
+        "/assets/kids/3.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Products",
+      "image": "/assets/categories/products.jpg",
+      "photos": [
+        "/assets/products/1.jpg",
+        "/assets/products/2.jpg",
+        "/assets/products/3.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Sports",
+      "image": "/assets/categories/sports.jpg",
+      "photos": [
+        "/assets/sports/1.jpg",
+        "/assets/sports/2.jpg",
+        "/assets/sports/3.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Graduations",
+      "image": "/assets/categories/graduation.jpg",
+      "photos": [
+        "/assets/graduation/1.jpg",
+        "/assets/graduation/2.jpg",
+        "/assets/graduation/3.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Nature",
+      "image": "/assets/categories/nature.jpg",
+      "photos": [
+        "/assets/nature/1.jpg",
+        "/assets/nature/2.jpg",
+        "/assets/nature/3.jpg"
+      ]
+    }
+  ]
+  

@@ -6,6 +6,9 @@ import Header from './Components/Header/Header';
 
 import Home from './Pages/Home/Home';
 import Footer from './Components/Footer/Footer';
+import PhotoPage from './Pages/photography page/photopage';
+import Photodetails from './Pages/photodetails/photodetail';
+import AboutMe from './Pages/About/About';
 
 function App() {
   return (
@@ -14,9 +17,15 @@ function App() {
     
       <Routes>
         <Route path="/" element={<Home />} />
+     <Route path="/About" element={<AboutMe />} />
 
-        {/* <Route path="/about" element={<About />} />
-        <Route path="/services" element={<Services />} /> */}
+
+        {/* photos */}
+        <Route path="/photos" element={<PhotoPage />} />
+        <Route path="/category/:category" element={<Photodetails />} />
+
+    
+      
       </Routes>
     <Footer/>
          </div>
